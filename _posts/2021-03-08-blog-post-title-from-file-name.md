@@ -1,32 +1,14 @@
-## Blog Post Title From First Header
+## Enjoy the silence
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+O aprendizado não é um objetivo ou, pelo menos, não deveria ser. Ele é um processo. Um processo circular, no qual construímos inicialmente um entendimento simples sobre algo e, a partir dos contornos desse conceito-base, vamos expandindo gradualmente nossa compreensão. Esse movimento nunca abandona o núcleo inicial; ao contrário, apoia-se nele para avançar.
+O problema é que esse processo exige energia mental. Gosto de chamar essa energia de mental units, termo que roubei de uma newsletter que leio  (Vitor Cheng). Para que essas unidades estejam disponíveis ao longo do dia, é necessário criar espaço e, sobretudo, eliminar distrações. E hoje, elas são muitas.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+As redes sociais produzem um ruído constante, altamente viciante, que nos consome sem que percebamos. Mais do que distrair, elas nos colocam em uma posição permanente de comparação: fotos, vídeos e narrativas de uma vida perfeita, do self-made billionaire que venceu trabalhando 24 horas por dia, sem falhas, sem pausas, sem dúvidas. 
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+Li um livro interessante do cara da sociedade do cansaço, Byung-Chul Han, porém outro livro. Ele aborda que vivemos sob um modelo neoliberal que substituiu as formas clássicas de coerção por mecanismos muito mais sutis de poder. Já não somos obrigados, somos induzidos. A exploração deixou de ser externa e passou a ser autoexploração. Somos, ao mesmo tempo, explorador e explorado, sempre pressionados a performar, produzir, otimizar.
 
----
+Nesse contexto, a distração não é apenas um efeito colateral: ela é funcional ao sistema. Ao cairmos nesse buraco de dopamina fácil, vamos drenando nossas mental units sem perceber. O tempo que deveria ser dedicado ao ócio é ocupado por estímulos constantes que apenas simulam descanso.
+O resultado é previsível: não avançamos no processo circular do aprendizado. Ficamos na superfície. Consumimos muito, entendemos pouco. Exaustos, porém rasos.
 
-### This is a header
+Aprender exige silêncio, tempo e energia.
 
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
