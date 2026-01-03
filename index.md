@@ -1,1 +1,1 @@
-
+"Só alguns pensamentos"
