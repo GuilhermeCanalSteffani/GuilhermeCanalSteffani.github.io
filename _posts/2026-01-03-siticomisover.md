@@ -1,3 +1,4 @@
+## O mundo precisa de comédia! - Fim dos sitcoms  
 Meu gênero de série favorito é o sitcom: séries de comédia com episódios de 20 a 30 minutos, perfeitas para desestressar e assistir sem compromisso. O problema é que, ao que tudo indica, não se produzem mais sitcoms mainstream de grande impacto como antes.
 Tentei montar uma lista com o meu top 10 pessoal de séries de comédia, junto com os anos em que foram exibidas, para começarmos essa análise:
 
